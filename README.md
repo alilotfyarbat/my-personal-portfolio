@@ -132,7 +132,7 @@ my-personal-portfolio/
 
 ---
 
-## 👤 توسعه‌دهنده
+# 👤 توسعه‌دهنده
 
 [alilotfyarbat](https://github.com/alilotfyarbat)
 
