@@ -120,23 +120,18 @@ my-personal-portfolio/
 
 ---
 
-## 📄 حق کپی‌رایت
 
-© ۱۴۰۴ علی لطفی اربط | تمامی حقوق محفوظ است.
+```
+© ۱۴۰۴ فومیکو | تمامی حقوق محفوظ است.
+```
 
----
 
-## ❓ سوالات و پشتیبانی
 
-در صورت وجود هرگونه سوال یا مشکل، لطفاً در بخش [Issues](https://github.com/alilotfyarbat/my-personal-portfolio/issues) پروژه در گیت‌هاب مطرح کنید.
-
----
-
-# 👤 توسعه‌دهنده
-
-[alilotfyarbat](https://github.com/alilotfyarbat)
+**نکته:**  
+در صورت وجود هرگونه سوال یا مشکل، لطفاً در بخش Issues پروژه در گیت‌هاب مطرح کنید.
 
 ---
 
+### 👤 توسعه‌دهنده: [alilotfyarbat](https://github.com/alilotfyarbat)
 
-**موفق باشید!**
+---
